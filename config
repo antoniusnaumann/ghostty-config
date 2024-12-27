@@ -1,0 +1,6 @@
+theme = potsdam
+bold-is-bright = true
+window-colorspace = display-p3
+font-family = "Liga SFMono Nerd Font"
+cursor-style-blink = false
+font-size = 16
